@@ -1,14 +1,9 @@
-# Yunyang 的Github
+👋 欢迎来到我的技术探索空间！这里记录着我在游戏开发与编程方面的实践成果。
 
-**📌 关于我**  
 我是Yunyang，一名专注于游戏开发的工程师，拥有3年游戏行业经验（含2年职业经历）。擅长Unity/Unreal引擎开发、游戏逻辑实现。  
 
-欢迎来到我的技术探索空间！这里记录着我在游戏开发与编程方面的实践成果。
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yunyang-feng)  
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Yunyang-0077B5?style=flat-square)](https://fengyunyang29.wixsite.com/portfolio)  
-
 [![Email](https://img.shields.io/badge/Email-fengyunyang29%40outlook.com-blue?style=flat-square)](mailto:fengyunyang29@outlook.com)  
 
 ---
