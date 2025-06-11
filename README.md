@@ -9,14 +9,20 @@
 ---
 
 ## 🚀 核心项目展示
-### 1. [Coding Interview Guide - C++ 实战案例](https://github.com/TrueMyWorldEye/CodingInterviewGuide.git)
+
+### 1. [算法刷题记录](https://github.com/Yunyang29/AlgorithmJourney_CPP.git)
 - **技术栈**：C++, 算法设计
 - **亮点**：
-  - 《程序员代码面试指南：IT名企算法与数据结构题目最优解》书中算法题目的 C++ 实现和整理
-  - 精选LeetCode题解
+  - 刷题记录
 - **适用场景**：面试准备/算法训练
 
-### 2. [Unreal Engine 5： 高级动作RPG](https://github.com/TrueMyWorldEye/Demo_ARPG_Cpp.git)
+### 2. [设计模式案例](https://github.com/Yunyang29/DesignPattern_CPP.git)
+- **技术栈**：C++, 设计模式
+- **亮点**：
+  -   使用Console对课程案例进行重构，加深内容理解
+- **适用场景**：面试准备/算法训练
+
+### 3. [Unreal Engine 5： 高级动作RPG](https://github.com/TrueMyWorldEye/Demo_ARPG_Cpp.git)
 - **技术栈**：C++/Blueprints混合开发
 - **功能模块**：
   - Gameability System
