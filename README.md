@@ -1,6 +1,9 @@
-👋 欢迎来到我的技术探索空间！这里记录着我在游戏开发与编程方面的实践成果。
+👋 技术探索与开发日志
 
-我是Yunyang，一名专注于游戏开发的工程师，拥有3年游戏行业经验（含2年职业经历）。擅长Unity/Unreal引擎开发、游戏逻辑实现。  
+关于我：
+Yunyang，游戏开发工程师。自2022年进入游戏行业以来专注于：
+- Gameplay实现
+- Unity/Unreal双引擎开发
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yunyang-feng)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Yunyang-0077B5?style=flat-square)](https://fengyunyang29.wixsite.com/portfolio)  
