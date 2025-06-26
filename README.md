@@ -1,15 +1,18 @@
-👋 技术探索与开发日志
-
-关于我：
-Yunyang，游戏开发工程师。自2022年进入游戏行业以来专注于：
-- Gameplay实现
-- Unity/Unreal双引擎开发
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yunyang-feng)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Yunyang-0077B5?style=flat-square)](https://fengyunyang29.wixsite.com/portfolio)  
 [![Email](https://img.shields.io/badge/Email-fengyunyang29%40outlook.com-blue?style=flat-square)](mailto:fengyunyang29@outlook.com)  
 
----
+## 👋 关于我
+
+Yunyang，游戏开发工程师。自 2022 年进入游戏行业以来专注于 Gameplay 实现与 Unity/Unreal 双引擎开发，目前正从 Unity UI 工程师转型为以 Unreal Engine + C++ 为核心的 Gameplay Programmer，聚焦角色动作、战斗系统与 AI 模块开发。
+
+## 📚 学习路径与成长目标
+
+为更好地适应 Unreal Engine 的 C++ 开发，我正在加强以下能力：
+
+- **算法能力**：通过刷题训练逻辑思维与代码效率，为游戏中的状态管理、AI行为等复杂模块打好基础  
+- **设计模式**：借助经典模式构建模块化、可维护的系统结构，为日后扩展战斗系统与 UI 架构做准备  
+- **引擎适配力**：从 Unity 向 UE 转型，逐步构建跨引擎开发经验
 
 ## 🚀 核心项目展示
 
