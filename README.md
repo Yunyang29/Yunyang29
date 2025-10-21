@@ -2,28 +2,16 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Yunyang-0077B5?style=flat-square)](https://fengyunyang29.wixsite.com/portfolio)  
 [![Email](https://img.shields.io/badge/Email-fengyunyang29%40outlook.com-blue?style=flat-square)](mailto:fengyunyang29@outlook.com)  
 
-## 👋 关于我
+## 👋 关于我 | About Me
 
-Yunyang (Cirrus)，游戏开发工程师。自 2022 年进入游戏行业以来专注于 Gameplay 实现与 Unity/Unreal 双引擎开发，目前正从 Unity UI 工程师转型为以 Unreal Engine + C++ 为核心的 Gameplay Programmer，聚焦角色动作、战斗系统与 AI 模块开发。
+我叫 Yunyang Feng，是一名专注于 游戏系统与玩法开发 的程序员。目前在 Abertay University 攻读 Computer Games Technology 硕士学位，研究方向聚焦于 Gameplay Programming、系统架构，同时对游戏渲染和AI有强烈的兴趣。
 
-## 🚀 核心项目展示
+自 2022 年进入游戏行业以来，我曾在Unity引擎环境下参与多个项目开发，积累了从UI工程到核心玩法系统实现的完整经验，目前正尝试转型为以Unreal Engine&C++为核心的Gameplay Programmer。
 
-### 1. [算法刷题记录](https://github.com/Yunyang29/AlgorithmJourney_CPP.git)
-- **技术栈**：C++, 算法设计
-- **亮点**：
-  - 刷题记录
-- **适用场景**：面试准备/算法训练
+我热衷于在项目中实现结构清晰、可扩展性强且易于维护的代码架构，以提升系统的稳定性与开发效率。
 
-### 2. [设计模式案例](https://github.com/Yunyang29/DesignPattern_CPP.git)
-- **技术栈**：C++, 设计模式
-- **亮点**：
-  -   使用Console对课程案例进行重构，加深内容理解
-- **适用场景**：面试准备/算法训练
+My name is Yunyang (Cirrus) Feng, a programmer focusing on game systems and gameplay development. I am currently pursuing a Master’s degree in Computer Games Technology at Abertay University, with research interests in gameplay programming and system architecture, as well as a strong interest in game rendering and AI.
 
-### 3. [Unreal Engine 5： 高级动作RPG](https://github.com/TrueMyWorldEye/Demo_ARPG_Cpp.git)
-- **技术栈**：C++/Blueprints混合开发
-- **功能模块**：
-  - Gameability System
-  - Melee combo system with light and heavy attacks, block and parry stystem, etc.
-  - Enemy AI
-  - Robust UI notify system
+Since entering the game industry in 2022, I have worked on several projects using the Unity engine, gaining experience from UI engineering to core gameplay system development. I am now transitioning toward gameplay programming based on Unreal Engine and C++.
+
+I am passionate about building clean, extensible, and maintainable code architectures that improve system stability and development efficiency.
